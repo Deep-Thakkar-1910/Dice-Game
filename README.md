@@ -10,3 +10,5 @@ until player chooses to hold the current score in their total score,
 or the dice rolls 1.
 
 on both the scenario the side changes and the 1st player to reach the score of 20 wins.
+
+access the game through this link https://deep-thakkar-1910.github.io/Dice-Game/
