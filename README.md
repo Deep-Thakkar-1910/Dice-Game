@@ -13,7 +13,7 @@ on both the scenario the side changes and the 1st player to reach the score of 2
 
 access the game through this link https://deep-thakkar-1910.github.io/Dice-Game/
 
-Right now the game worls fine only for laptop's, pc's or on desktop site.
+Right now the game works fine only for laptop's, pc's or on desktop site.
 
 Future Work : 
 Make the website fully responsive 
