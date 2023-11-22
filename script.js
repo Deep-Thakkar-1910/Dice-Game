@@ -151,7 +151,7 @@ let totalScoreP1 = 0;
 let totalScoreP2 = 0;
 
 // Take Player's names
- 
+ addEventListener("DOMContentLoaded",()=>{
 let player1Name =  prompt("Please enter player 1's name");
 let player2Name =  prompt("Please enter player 2's name");
 player1Name ||= "Player 1"
@@ -159,7 +159,7 @@ player2Name ||= "Player 2 ";
 // update player's names
 document.querySelector('#name--0').textContent=player1Name;
 document.querySelector('#name--1').textContent=player2Name;
-
+});
 
 // -------------------functions-------------------
 
